@@ -1,1 +1,1 @@
-# EDA
+# This repository contains Exploratory Data Analysis (EDA) on multiple datasets, including used bike and car sales, Amazon product sales, and Spotify hip-hop music trends. Through statistical analysis, data visualization, and coding exercises, we uncover insights into resale markets, consumer behavior, and music popularity. 
